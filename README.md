@@ -1,5 +1,4 @@
 # hello-world
 
-This is a detailed explanation. 
-I have to add much information.
-ahahahay
+This is my first repository
+It's filled with projects from a raspberry pi programming bootcamp I went to
